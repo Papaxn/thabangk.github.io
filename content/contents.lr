@@ -1,8 +1,14 @@
+_model: blog-post
+---
 title: Welcome to Thabang Keele's Website!
 ---
 body:
 
-This is a basic demo website that shows how to use Lektor for a basic
-website with some pages and a blog.
+Hi, I am Thabang, and this is my website. I am an Industrial Engineer based in Johannesburg, South Africa. 
 
-For the Curious, this website was built using 
+I have always wanted to blog, so this website is the intersection of all my experiences and views on everything that I am curious about.
+
+> Abandon all hope, ye who enter here.
+> — Dante Alighieri
+
+For the Curious, this website was built using a custom [Distill](https://distill.pub/guide/) - [Tufte](https://edwardtufte.github.io/tufte-css/) stylsheet and [Lektor](https://www.getlektor.com/). The fonts iused are [Source Serif 4](https://fonts.google.com/specimen/Source+Serif+4) and [Source Sans 3](https://fonts.google.com/specimen/Source+Sans+3).
